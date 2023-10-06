@@ -6,10 +6,9 @@ A Dart package for fetching and retrieving daily quotes from the API.
 
 To use this package, add `quotes_provider` as a dependency in your `pubspec.yaml` file:
 
-```
-yaml
+``` yaml
 dependencies:
-  quotes_provider: ^0.0.1 
+  quotes_provider: ^1.0.0 
 ```
 
 Then, run flutter pub get to fetch the package.

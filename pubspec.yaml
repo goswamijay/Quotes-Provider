@@ -1,7 +1,7 @@
 name: quotes_provider
 description: A Flutter package for daily quotes.
 version: 1.0.0
-homepage:
+homepage: https://github.com/goswamijay/Quotes-Provider
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
