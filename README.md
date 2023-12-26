@@ -8,7 +8,7 @@ To use this package, add `quotes_provider` as a dependency in your `pubspec.yaml
 
 ``` yaml
 dependencies:
-  quotes_provider: ^1.0.0 
+  quotes_provider: ^1.0.2
 ```
 
 Then, run flutter pub get to fetch the package.
